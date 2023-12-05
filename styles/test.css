@@ -1,0 +1,128 @@
+*{
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary{
+  color:floralwhite;
+
+  font-size: 20px;
+  font-weight: 700px;
+  border: 0;
+  padding: 20px  ;
+  margin: 20px;
+  background-color: #eb0808;
+  
+  
+  
+}
+
+.banner{
+  background-image:url(../images/Rectangle\ 237.png)
+
+  
+ 
+}
+
+.banner-titel{
+  
+  padding: 130px;
+  
+}
+
+.main{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.titel{
+  text-align: center;
+  color: aliceblue;
+  
+}
+
+.sub-titel{
+  text-align: center;
+  color: aliceblue;
+}
+
+.bd{
+
+  margin-top: 80px;
+  
+}
+
+.des-titel{
+  text-align: center;
+  margin: 20px;
+}
+
+.description{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.about{
+  display: flex;
+  gap: 30px;
+  border-radius: 5px;
+  border-width: 700px;
+  padding-bottom: 20px;
+ 
+}
+.shado{
+  color: gray;
+  text-align: center;
+  
+}
+
+.contrainer{
+  display: flex;
+  gap: 30px;
+}
+
+.sub-titel{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.content-titel1{
+  border-radius: 5px;
+  background-color: honeydew;
+  margin-bottom: 30px;
+}
+
+.content-titel2{
+  background-color: blanchedalmond;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
+
+.content-titel3{
+  background-color: blanchedalmond;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  
+}
+
+.lives{
+  display: flex;
+  
+}
+
+.lives-titel{
+  margin: 30px;
+}
+
+.Updates{
+  
+}
+
+/* footer */
+
+.foot{
+  text-align: center;
+  background-color: chocolate;
+  font-weight: 800px;
+}
